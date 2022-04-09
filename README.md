@@ -1,1 +1,10 @@
-# 傅雨凝的毕设
+# python project practice
+## Author
+
+piggy
+
+cow
+
+## project description
+
+??
